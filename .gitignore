@@ -3,6 +3,8 @@
 __pycache__/
 *.pyc
 .DS_Store
+assets/videos/*.mov
+assets/videos/*.mp4
 
 traces/*.jsonl
 !traces/.gitkeep
