@@ -1,0 +1,502 @@
+[
+  {
+    "customer_id": "customer_101",
+    "name": "Synthetic Customer 101",
+    "company": "Demo Company 101",
+    "account_status": "Active",
+    "plan": "Starter",
+    "annual_value": 15750,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_102",
+    "name": "Synthetic Customer 102",
+    "company": "Demo Company 102",
+    "account_status": "Active",
+    "plan": "Growth",
+    "annual_value": 19500,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_103",
+    "name": "Synthetic Customer 103",
+    "company": "Demo Company 103",
+    "account_status": "Active",
+    "plan": "Enterprise",
+    "annual_value": 23250,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_104",
+    "name": "Sarah Chen",
+    "company": "Northstar Labs",
+    "account_status": "Review",
+    "plan": "Starter",
+    "annual_value": 27000,
+    "risk_level": "Medium",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_105",
+    "name": "Synthetic Customer 105",
+    "company": "Demo Company 105",
+    "account_status": "Active",
+    "plan": "Growth",
+    "annual_value": 30750,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_106",
+    "name": "Synthetic Customer 106",
+    "company": "Demo Company 106",
+    "account_status": "Active",
+    "plan": "Enterprise",
+    "annual_value": 34500,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_107",
+    "name": "Synthetic Customer 107",
+    "company": "Demo Company 107",
+    "account_status": "Active",
+    "plan": "Starter",
+    "annual_value": 38250,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_108",
+    "name": "Synthetic Customer 108",
+    "company": "Demo Company 108",
+    "account_status": "Active",
+    "plan": "Growth",
+    "annual_value": 42000,
+    "risk_level": "Medium",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_109",
+    "name": "Synthetic Customer 109",
+    "company": "Demo Company 109",
+    "account_status": "Review",
+    "plan": "Enterprise",
+    "annual_value": 45750,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_110",
+    "name": "Synthetic Customer 110",
+    "company": "Demo Company 110",
+    "account_status": "Active",
+    "plan": "Starter",
+    "annual_value": 49500,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_111",
+    "name": "Synthetic Customer 111",
+    "company": "Demo Company 111",
+    "account_status": "Active",
+    "plan": "Growth",
+    "annual_value": 53250,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_112",
+    "name": "Synthetic Customer 112",
+    "company": "Demo Company 112",
+    "account_status": "Active",
+    "plan": "Enterprise",
+    "annual_value": 57000,
+    "risk_level": "Medium",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_113",
+    "name": "Synthetic Customer 113",
+    "company": "Demo Company 113",
+    "account_status": "Active",
+    "plan": "Starter",
+    "annual_value": 60750,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_114",
+    "name": "Synthetic Customer 114",
+    "company": "Demo Company 114",
+    "account_status": "Review",
+    "plan": "Growth",
+    "annual_value": 64500,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_115",
+    "name": "Synthetic Customer 115",
+    "company": "Demo Company 115",
+    "account_status": "Active",
+    "plan": "Enterprise",
+    "annual_value": 68250,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_116",
+    "name": "Synthetic Customer 116",
+    "company": "Demo Company 116",
+    "account_status": "Active",
+    "plan": "Starter",
+    "annual_value": 72000,
+    "risk_level": "Medium",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_117",
+    "name": "Synthetic Customer 117",
+    "company": "Demo Company 117",
+    "account_status": "Active",
+    "plan": "Growth",
+    "annual_value": 75750,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_118",
+    "name": "Synthetic Customer 118",
+    "company": "Demo Company 118",
+    "account_status": "Active",
+    "plan": "Enterprise",
+    "annual_value": 79500,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_119",
+    "name": "Synthetic Customer 119",
+    "company": "Demo Company 119",
+    "account_status": "Review",
+    "plan": "Starter",
+    "annual_value": 83250,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_120",
+    "name": "Synthetic Customer 120",
+    "company": "Demo Company 120",
+    "account_status": "Active",
+    "plan": "Growth",
+    "annual_value": 87000,
+    "risk_level": "Medium",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_121",
+    "name": "Synthetic Customer 121",
+    "company": "Demo Company 121",
+    "account_status": "Active",
+    "plan": "Enterprise",
+    "annual_value": 90750,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_122",
+    "name": "Synthetic Customer 122",
+    "company": "Demo Company 122",
+    "account_status": "Active",
+    "plan": "Starter",
+    "annual_value": 94500,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_123",
+    "name": "Synthetic Customer 123",
+    "company": "Demo Company 123",
+    "account_status": "Active",
+    "plan": "Growth",
+    "annual_value": 98250,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_124",
+    "name": "Synthetic Customer 124",
+    "company": "Demo Company 124",
+    "account_status": "Review",
+    "plan": "Enterprise",
+    "annual_value": 102000,
+    "risk_level": "Medium",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_125",
+    "name": "Synthetic Customer 125",
+    "company": "Demo Company 125",
+    "account_status": "Active",
+    "plan": "Starter",
+    "annual_value": 105750,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_126",
+    "name": "Synthetic Customer 126",
+    "company": "Demo Company 126",
+    "account_status": "Active",
+    "plan": "Growth",
+    "annual_value": 109500,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_127",
+    "name": "Synthetic Customer 127",
+    "company": "Demo Company 127",
+    "account_status": "Active",
+    "plan": "Enterprise",
+    "annual_value": 113250,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_128",
+    "name": "Synthetic Customer 128",
+    "company": "Demo Company 128",
+    "account_status": "Active",
+    "plan": "Starter",
+    "annual_value": 117000,
+    "risk_level": "Medium",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_129",
+    "name": "Synthetic Customer 129",
+    "company": "Demo Company 129",
+    "account_status": "Review",
+    "plan": "Growth",
+    "annual_value": 120750,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_130",
+    "name": "Synthetic Customer 130",
+    "company": "Demo Company 130",
+    "account_status": "Active",
+    "plan": "Enterprise",
+    "annual_value": 124500,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_131",
+    "name": "Synthetic Customer 131",
+    "company": "Demo Company 131",
+    "account_status": "Active",
+    "plan": "Starter",
+    "annual_value": 128250,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_132",
+    "name": "Synthetic Customer 132",
+    "company": "Demo Company 132",
+    "account_status": "Active",
+    "plan": "Growth",
+    "annual_value": 132000,
+    "risk_level": "Medium",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_133",
+    "name": "Synthetic Customer 133",
+    "company": "Demo Company 133",
+    "account_status": "Active",
+    "plan": "Enterprise",
+    "annual_value": 135750,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_134",
+    "name": "Synthetic Customer 134",
+    "company": "Demo Company 134",
+    "account_status": "Review",
+    "plan": "Starter",
+    "annual_value": 139500,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_135",
+    "name": "Synthetic Customer 135",
+    "company": "Demo Company 135",
+    "account_status": "Active",
+    "plan": "Growth",
+    "annual_value": 143250,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_136",
+    "name": "Synthetic Customer 136",
+    "company": "Demo Company 136",
+    "account_status": "Active",
+    "plan": "Enterprise",
+    "annual_value": 147000,
+    "risk_level": "Medium",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_137",
+    "name": "Synthetic Customer 137",
+    "company": "Demo Company 137",
+    "account_status": "Active",
+    "plan": "Starter",
+    "annual_value": 150750,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_138",
+    "name": "Synthetic Customer 138",
+    "company": "Demo Company 138",
+    "account_status": "Active",
+    "plan": "Growth",
+    "annual_value": 154500,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_139",
+    "name": "Synthetic Customer 139",
+    "company": "Demo Company 139",
+    "account_status": "Review",
+    "plan": "Enterprise",
+    "annual_value": 158250,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_140",
+    "name": "Synthetic Customer 140",
+    "company": "Demo Company 140",
+    "account_status": "Active",
+    "plan": "Starter",
+    "annual_value": 162000,
+    "risk_level": "Medium",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_141",
+    "name": "Synthetic Customer 141",
+    "company": "Demo Company 141",
+    "account_status": "Active",
+    "plan": "Growth",
+    "annual_value": 165750,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_142",
+    "name": "Synthetic Customer 142",
+    "company": "Demo Company 142",
+    "account_status": "Active",
+    "plan": "Enterprise",
+    "annual_value": 169500,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_143",
+    "name": "Synthetic Customer 143",
+    "company": "Demo Company 143",
+    "account_status": "Active",
+    "plan": "Starter",
+    "annual_value": 173250,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_144",
+    "name": "Synthetic Customer 144",
+    "company": "Demo Company 144",
+    "account_status": "Review",
+    "plan": "Growth",
+    "annual_value": 177000,
+    "risk_level": "Medium",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_145",
+    "name": "Synthetic Customer 145",
+    "company": "Demo Company 145",
+    "account_status": "Active",
+    "plan": "Enterprise",
+    "annual_value": 180750,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_146",
+    "name": "Synthetic Customer 146",
+    "company": "Demo Company 146",
+    "account_status": "Active",
+    "plan": "Starter",
+    "annual_value": 184500,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_147",
+    "name": "Synthetic Customer 147",
+    "company": "Demo Company 147",
+    "account_status": "Active",
+    "plan": "Growth",
+    "annual_value": 188250,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_148",
+    "name": "Synthetic Customer 148",
+    "company": "Demo Company 148",
+    "account_status": "Active",
+    "plan": "Enterprise",
+    "annual_value": 192000,
+    "risk_level": "Medium",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_149",
+    "name": "Synthetic Customer 149",
+    "company": "Demo Company 149",
+    "account_status": "Review",
+    "plan": "Starter",
+    "annual_value": 195750,
+    "risk_level": "Low",
+    "review_note": ""
+  },
+  {
+    "customer_id": "customer_150",
+    "name": "Synthetic Customer 150",
+    "company": "Demo Company 150",
+    "account_status": "Active",
+    "plan": "Growth",
+    "annual_value": 199500,
+    "risk_level": "Low",
+    "review_note": ""
+  }
+]

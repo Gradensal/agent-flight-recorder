@@ -1,0 +1,13 @@
+{
+    "normal_read_limit": 5,
+    "review_read_threshold": 10,
+    "write_intent_terms": [
+      "update",
+      "modify",
+      "change",
+      "edit",
+      "set",
+      "correct"
+    ],
+    "delete_allowed": false
+  }
